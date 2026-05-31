@@ -1,0 +1,6 @@
+{
+  "name": "Field Survey Pro",
+  "description": "Enterprise-grade mobile field survey application with offline-first capabilities, interactive tracking maps, custom surveys, and robust role-based monitoring dashboards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
